@@ -1,0 +1,12 @@
+Name: Your Name
+Address: Your Address
+Number/whatsapp: Your Number
+
+#Notes
+
+1. One order 
+a) Auto Light( 68mm X 80mm ). 2 piece
+
+2. All design done in bottom copper
+
+3. single sided PCB. No masking needed
